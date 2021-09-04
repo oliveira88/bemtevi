@@ -1,0 +1,26 @@
+{
+  "name": "bemtevi",
+  "version": "1.0.0",
+  "description": "Bem te vi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oliveira88/bemtevi.git"
+  },
+  "keywords": [
+    "bemtevi",
+    "bem-te-vi"
+  ],
+  "author": "Guilherme Oliveira <gui.r.oliveira.88@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "bemtevi": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/oliveira88/bemtevi/issues"
+  },
+  "homepage": "https://github.com/oliveira88/bemtevi#readme"
+}
